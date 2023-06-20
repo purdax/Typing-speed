@@ -1,0 +1,82 @@
+h1 {
+    text-align: center;
+    color: aqua;
+    font-family: 'Oswald', sans-serif;
+}
+
+span {
+    color: aqua;
+}
+
+.container {
+    margin: auto;
+    width: 1100px;
+}
+
+#text {
+    margin: auto;
+    color: aqua;
+    border: 2px solid;
+    height: 30px;
+    width: 1100px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+}
+
+#initial-text {
+    margin: auto;
+    white-space: nowrap;
+    font-weight: bold;
+    color: aqua;
+    overflow: hidden;
+    direction: ltr;
+    text-overflow: ellipsis;
+    white-space: inherit;
+    border: 2px solid;
+    height: 30px;
+    width: 1100px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+}
+
+#your-time {
+    font-family: 'Oswald', sans-serif;
+    color: aqua;
+    text-align: center;
+    border: 2px solid;
+    margin: auto;
+    height: 20px;
+    width: 145px;
+}
+
+#words {
+    font-family: 'Oswald', sans-serif;
+    color: aqua;
+    text-align: center;
+    border: 2px solid;
+    margin: auto;
+    height: 20px;
+    width: 70px;
+}
+
+#record {
+    font-family: 'Oswald', sans-serif;
+    color: aqua;
+    border: 2px solid;
+    text-align: center;
+    margin: auto;
+    height: 20px;
+    width: 190px;
+}
+
+#restart {
+    visibility: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#center {
+    text-align: center;
+}
